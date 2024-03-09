@@ -1,0 +1,24 @@
+
+    // function finalize(){
+
+        // Step 1 Count Trait /Value for Each Type
+
+        // Loop through total supply
+            // 20 Total Supply
+
+            // uint totalSupply = gettotalSupply();
+            // for( i = 1 <= totalSupply){
+                //  (uint8,uint8,uint8,uint8,uint8,uin8) =getNftdetails(index);
+                    // nftdetails[i].currentDetails ( six index for per i
+            // }
+
+
+        // Get Minimum Count as 
+
+        // Find percentage 
+        // Calculate % = Min trait value *100/Total trait value
+
+            // if (per < 5){
+                // Freeze 
+            // }
+    // }
